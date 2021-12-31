@@ -4,9 +4,9 @@ Eu me chamo Rodrigo e aqui compartilho meus projetos em desenvolvimento.
 Hi! My name is Rodrigo and here I share my projects in development.
 
 # Sou um Analista de Dados 📈 I'm a Data Analyst
-Ainda não atuo efetivamente na area, mas acredito que isso será solucionado em breve
+Apesar de não estar atuando efetivamente na area, me considero um analista de dados pelo meu conhecimento. E não, não estou satisfeito com isso, meu objetivo é me tornar um dos melhores cientista de dados do Brasil.
 
-I still don't work effectively in the area, but I believe this will be solved soon
+Although I'm not working effectively in the area, I consider myself a data analyst because of my knowledge. And no, I'm not satisfied with that, my goal is to become one of the best data scientists in Brazil.
 
 
 # Formação🎓 Education
