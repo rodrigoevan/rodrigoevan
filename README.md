@@ -15,10 +15,11 @@ Sou formado em Engenharia Mecânica (Centro Universitário UNA)
 Bachelors degree in Mechanical Engineering (Centro Universitário UNA)
 
 # Estudando📘 Studying
-Atualmente estou finalizando a Certificação Profissional em Ciencia de dados da IBM no Coursera. Pretendo já iniciar outra certificação em gestão de Projeto do Google também no Coursera
+Acabei de concluir minha Certificação Profissional em Ciencia de dados da IBM no Coursera. Pretendo já iniciar outra certificação em gestão de Projeto do Google também no Coursera. Continuo estudando ainda sobre Data Science mas com foco agora em grande volume de dados, machine learning e deep learning.
 
 
-I am currently completing the IBM Data Science Professional Certification on Coursera. I plan to start another Google Project Management certification now on Coursera
+
+I just completed my IBM Data Science Professional Certification on Coursera. I already intend to start another certification in Google Project Management also on Coursera. I'm still studying Data Science but now focusing on big data, machine learning and deep learning.
 
 
 # Paixões💘 Passions
